@@ -1,5 +1,9 @@
 # 📜 BlogScroll
 
+- https://uvacoder.github.io/blogscroll.github.io/
+
+- https://github.com/uvacoder/blogsrcoll.github.io
+
 ![Blog deployment](https://github.com/blogscroll/blogscroll/workflows/Blog%20deployment/badge.svg)
 
 An open directory of personal sites and blogs, maintained entirely on GitHub.
